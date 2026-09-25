@@ -41,8 +41,8 @@ JWT_API_BASE = "https://ff-jwt-gen-api.lovable.app/api/public/token"   #JWT API 
 # =============================================
 
 BD_CREDS = {
-    "uid": "4825630328", 
-    "password": "2_JAHID_X_EMPIRE_Tg628fnZ"
+    "uid": "4649829250", 
+    "password": "3_AO9LU_BY_SPIDEERIO_GAMING_Q5MLJ"
 }
 
 IND_CREDS = {
